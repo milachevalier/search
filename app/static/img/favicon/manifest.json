@@ -1,6 +1,6 @@
 {
- "name": "Whoogle Search",
- "short_name": "Whoogle",
+ "name": "Search",
+ "short_name": "Search",
  "display": "fullscreen",
  "scope": "/",
  "icons": [
