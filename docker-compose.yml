@@ -5,7 +5,7 @@ version: "2.4"
 services:
   whoogle-search:
     image: milachevalier/search
-    container_name: whoogle-search
+    container_name: search
     restart: on-failure:5
     pids_limit: 50
     mem_limit: 256mb
