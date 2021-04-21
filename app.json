@@ -100,7 +100,7 @@
     },
     "WHOOGLE_CONFIG_STYLE": {
         "description": "[CONFIG] Custom CSS styling (paste in CSS or leave blank)",
-        "value": "",
+        "value": ":root{--whoogle-logo:#685e79;--whoogle-page-bg:#ffffff;--whoogle-element-bg:#4285f4;--whoogle-text:#000000;--whoogle-contrast-text:#ffffff;--whoogle-secondary-text:#70757a;--whoogle-result-bg:#ffffff;--whoogle-result-title:#1967d2;--whoogle-result-url:#0d652d;--whoogle-result-visited:#4b11a8}#config-collapsible{display:none!important}html{font-family:arial,sans-serif!important}.BnJWBc,.logo-container,.logo-div,.mobile-logo{display:none!important}@media all and (min-width:750px){body{margin:0 150px!important}.x54gtf{background-color:#fff!important;margin:-10px 16px!important}.ZINbbc{box-shadow:none!important;margin-bottom:0!important}.vvjwJb{font-size:19px!important;line-height:1.3em!important}.search-div{margin-top:20px!important}:root{--whoogle-result-title:#1a0dab;--whoogle-result-url:#202124;--whoogle-result-visited:#609}}",
         "required": false
     }
   }
