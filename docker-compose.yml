@@ -4,7 +4,7 @@ version: "2.4"
 
 services:
   whoogle-search:
-    image: benbusby/whoogle-search
+    image: milachevalier/search
     container_name: whoogle-search
     restart: on-failure:5
     pids_limit: 50
