@@ -64,8 +64,6 @@ document.addEventListener("DOMContentLoaded", function() {
     resetBtn.addEventListener("click", event => {
         event.preventDefault();
         search.value = "";
-        searchBar.focus();
-        searchBar.select();
-      
+        search.focus();  
     });
 });
