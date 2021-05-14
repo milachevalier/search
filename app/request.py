@@ -213,7 +213,7 @@ class Request:
         # FIXME: Should investigate this further to ensure the consent
         # view is suppressed correctly
         cookies = {
-            'CONSENT': 'YES+cb.20210101-12-p0.en+F+660'
+            'CONSENT': 'YES+cb.20210101-12-p0.en+F+999'
         }
 
         # Validate Tor conn and request new identity if the last one failed
